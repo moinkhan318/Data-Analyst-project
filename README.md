@@ -1,1 +1,1 @@
-# Diabetes-prediction
+# Bank_Churn_Model_Prediction
